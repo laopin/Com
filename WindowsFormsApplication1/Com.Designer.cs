@@ -42,6 +42,10 @@
             this.Label3 = new MetroFramework.Controls.MetroLabel();
             this.SuspendLayout();
             // 
+            // serialPort1
+            // 
+            //this.serialPort1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.serialPort1_DataReceived);
+            // 
             // btnOpen
             // 
             this.btnOpen.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(17)))), ((int)(((byte)(17)))));
